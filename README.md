@@ -1,5 +1,5 @@
 # Classic COSMIC
-Transform your modern Pop!_OS with COSMIC desktop environment to Classic Pop!_OS (Pre 22.04)
+Transform your modern Pop!_OS with COSMIC desktop environment to Classic Pop!_OS (Pre 22.04).
 
 ### From this:
 ![Modern Pop!_OS theme with COSMIC desktop environment.](/modern-cosmic.png)
